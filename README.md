@@ -12,10 +12,9 @@ Static "domain for sale" landing page for engineer.ai. Plain HTML and CSS, no bu
 | `assets/` | QQuantum.ai and Coherence footer logos |
 | `robots.txt`, `sitemap.xml`, `llms.txt` | Crawler and LLM discovery |
 
-## Before going live
+## Contact
 
-- Confirm the Atom.com listing URL (`https://www.atom.com/name/engineer`).
-- Contact address is `team@coherence.com`.
+- Every call to action opens an email to `team@coherence.com`.
 
 ## Hosting
 
