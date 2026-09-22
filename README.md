@@ -1,6 +1,6 @@
-# engineer.ai
+# Engineer.ai
 
-Static "domain for sale" landing page for engineer.ai. Plain HTML and CSS, no build step, no JavaScript.
+Static "domain for sale" landing page for Engineer.ai. Plain HTML and CSS, no build step, no JavaScript.
 
 ## Files
 
@@ -18,7 +18,7 @@ Static "domain for sale" landing page for engineer.ai. Plain HTML and CSS, no bu
 
 ## Hosting
 
-Upload the folder as-is to any static host (GitHub Pages, Cloudflare Pages, Netlify, S3). For GitHub Pages, enable Pages on the `main` branch root and point the engineer.ai DNS at it.
+Upload the folder as-is to any static host (GitHub Pages, Cloudflare Pages, Netlify, S3). For GitHub Pages, enable Pages on the `main` branch root and point the Engineer.ai DNS at it.
 
 ## Preview locally
 
