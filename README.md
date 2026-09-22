@@ -15,7 +15,7 @@ Static "domain for sale" landing page for engineer.ai. Plain HTML and CSS, no bu
 ## Before going live
 
 - Confirm the Atom.com listing URL (`https://www.atom.com/name/engineer`).
-- Confirm the contact address (`hello@engineer.ai`).
+- Contact address is `team@coherence.com`.
 
 ## Hosting
 
