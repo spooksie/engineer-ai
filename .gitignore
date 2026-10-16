@@ -1,1 +1,4 @@
 .DS_Store
+
+# Graphify knowledge graph (each computer builds its own)
+graphify-out/
